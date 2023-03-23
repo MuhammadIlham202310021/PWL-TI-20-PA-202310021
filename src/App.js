@@ -1,8 +1,7 @@
 import React from "react";
 // import Login from "./components/Login";
-import form from "./components/form";
-// import BasicExample from "./components/form";
-import FormDatadiri from "./components/form";
+// import form from "./components/form";
+import stickynote from "./components/Pertemuan2/sample-ui/latihan/StickyNotes";
 
 function App() {
   return (
@@ -10,7 +9,8 @@ function App() {
       {/* <Login /> */}
       {/* <form /> */}
       {/* <BasicExample /> */}
-      <FormDatadiri />
+      {/* <FormDatadiri /> */}
+      <stickynote />
     </div>
   );
 }
