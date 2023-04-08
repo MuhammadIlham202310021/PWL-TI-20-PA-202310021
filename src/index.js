@@ -4,7 +4,8 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter } from "react-router-dom";
-import AppRoute from "./components/Pertemuan3/apps/AppRoute";
+// import AppRoute from "./components/Pertemuan4/apps/route/AppRoute";
+import AppRoute from "./components/Pertemuan4/apps/routes/AppRoute";
 
 const { PUBLIC_URL } = process.env;
 const root = ReactDOM.createRoot(document.getElementById("root"));
